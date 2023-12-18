@@ -1,0 +1,25 @@
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+tr{
+    border-bottom: 1px solid #ddd;
+}
+
+td{
+    padding:  10vh;
+    border-right: 1px solid #ddd;
+}
+
+.tateti{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
